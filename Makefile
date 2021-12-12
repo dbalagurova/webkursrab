@@ -1,6 +1,6 @@
 PROJECT_NAME ?= webkursrab
 VERSION = $(shell python3 setup.py --version | tr '+' '-')
-PROJECT_NAMESPACE ?= dbalagurova
+PROJECT_NAMESPACE ?= dianabalagurova
 REGISTRY_IMAGE ?= $(PROJECT_NAMESPACE)/$(PROJECT_NAME)
 
 all:
