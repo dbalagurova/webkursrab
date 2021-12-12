@@ -45,6 +45,6 @@ jobs:
         with:
           username: dianabalagurova
           password: Tr6!etLaMkTZp5g
-          repository: dbalagurova/webkursrab
+          repository: dianabalagurova/webkursrab
           target: api
           tags: 0.0.1, latest
