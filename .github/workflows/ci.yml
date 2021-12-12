@@ -44,7 +44,7 @@ jobs:
         uses: docker/build-push-action@v1
         with:
           username: dianabalagurova
-          password: #gNc~3@j:pfCk]m
+          password: Tr6!etLaMkTZp5g
           repository: dbalagurova/webkursrab
           target: api
           tags: 0.0.1, latest
